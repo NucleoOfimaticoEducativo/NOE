@@ -351,7 +351,7 @@ Para solicitudes de colaboración, licenciamiento, auditorías o autorizaciones 
   **Sede**: Palín, Escuintla, Guatemala  
   **Email**: [nucleoofimaticoeducativo@gmail.com] *(nucleoofimaticoeducativo@gmail.com)*  
   **Email**: [nucleoofimaticoeducativo@outlook.com] *(nucleoofimaticoeducativo@outlook.com)*  
-  **Sitio Web**: [https://noe-ong.vercel.app/](https://noe-ong.verce.app/)  
+  **Sitio Web**: [https://noe-ong.vercel.app/](https://noe-ong.vercel.app/)  
   **Enlace del Repositorio**: [https://github.com/NucleoOfimaticoEducativo/](https://github.com/NucleoOfimaticoEducativo/)
 
 > **Nota**: Todas las solicitudes deben ser enviadas por escrito y serán evaluadas individualmente por el fundador.
