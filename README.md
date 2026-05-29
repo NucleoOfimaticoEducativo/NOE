@@ -151,8 +151,8 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 
 | Tipo de Acceso | Enlace Oficial | Descripción Corporativa |
 |----------------|----------------|------------------------|
-| **N.O.E.** | [https://noe-ong.vercel.app](https://noe-ong.vercel.app) | **Centro de Comando Principal.** Integración global de todos los módulos, pilares estratégicos y telemetría del sistema. |
-| **Sobre Mí** | [https://noe-sobre-mi.vercel.app](https://noe-sobre-mi.vercel.app) | Biografía oficial del fundador, declaración de visión y arquitectura del ecosistema. |
+| **N.O.E.** | [https://noe-ong.vercel.app](https://noe-ong.vercel.app/) | **Centro de Comando Principal.** Integración global de todos los módulos, pilares estratégicos y telemetría del sistema. |
+| **Sobre Mí** | [https://noe-sobre-mi.vercel.app](https://noe-sobre-mi.vercel.app/) | Biografía oficial del fundador, declaración de visión y arquitectura del ecosistema. |
 
 ---
 
@@ -160,12 +160,12 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 
 | Módulo | Enlace Oficial | Funcionalidad Específica |
 |--------|----------------|--------------------------|
-| **Plataforma** | [https://noe-plataforma.vercel.app](https://noe-plataforma.vercel.app) | Ambiente de aprendizaje virtual integrado con seguimiento de progreso. |
-| **Carnés** | [https://noe-carnet.vercel.app](https://noe-carnet.vercel.app) | Generación y gestión de identificaciones digitales con códigos QR y validación. |
-| **Calendarios** | [https://noe-calendario.vercel.app](https://noe-calendario.vercel.app) | Planificación académica, eventos institucionales y recordatorios automatizados. |
-| **Librero** | [https://noe-librero.vercel.app](https://noe-librero.vercel.app) | Biblioteca virtual de recursos educativos, manuales y documentación técnica. |
-| **Cuadernos** | [https://noe-cuadernos.vercel.app](https://noe-cuadernos.vercel.app) | Repositorio de apuntes estructurados, guías de estudio y material didáctico. |
-| **Videos** | [https://noe-videos.vercel.app](https://noe-videos.vercel.app) | Tutoriales multimedia, conferencias y contenido audiovisual educativo. |
+| **Plataforma** | [https://noe-plataforma.vercel.app](https://noe-plataforma.vercel.app/) | Ambiente de aprendizaje virtual integrado con seguimiento de progreso. |
+| **Carnés** | [https://noe-carnet.vercel.app](https://noe-carnet.vercel.app/) | Generación y gestión de identificaciones digitales con códigos QR y validación. |
+| **Calendarios** | [https://noe-calendario.vercel.app](https://noe-calendario.vercel.app/) | Planificación académica, eventos institucionales y recordatorios automatizados. |
+| **Librero** | [https://noe-librero.vercel.app](https://noe-librero.vercel.app/) | Biblioteca virtual de recursos educativos, manuales y documentación técnica. |
+| **Cuadernos** | [https://noe-cuadernos.vercel.app](https://noe-cuadernos.vercel.app/) | Repositorio de apuntes estructurados, guías de estudio y material didáctico. |
+| **Videos** | [https://noe-videos.vercel.app](https://noe-videos.vercel.app/) | Tutoriales multimedia, conferencias y contenido audiovisual educativo. |
 
 ---
 
@@ -173,11 +173,11 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 
 | Nivel de Acceso | Enlace Oficial | Público Objetivo |
 |-----------------|----------------|------------------|
-| **Registro Público** | [https://noe-publico.vercel.app](https://noe-publico.vercel.app) | Acceso limitado para visitantes y consulta general de información. |
-| **Registro Privado** | [https://noe-privado.vercel.app](https://noe-privado.vercel.app) | Área exclusiva para miembros autorizados con credenciales verificadas. |
-| **Para Academias** | [https://noe-academias.vercel.app](https://noe-academias.vercel.app) | Soluciones especializadas para instituciones académicas y centros de estudio. |
-| **Para Instituciones** | [https://noe-instituciones.vercel.app](https://noe-instituciones.vercel.app) | Herramientas administrativas para organizaciones educativas de gran escala. |
-| **Para Escuelas** | [https://noe-escuelas.vercel.app](https://noe-escuelas.vercel.app) | Recursos adaptados a centros educativos con controles parentales y pedagógicos. |
+| **Registro Público** | [https://noe-publico.vercel.app](https://noe-publico.vercel.app/) | Acceso limitado para visitantes y consulta general de información. |
+| **Registro Privado** | [https://noe-privado.vercel.app](https://noe-privado.vercel.app/) | Área exclusiva para miembros autorizados con credenciales verificadas. |
+| **Para Academias** | [https://noe-academias.vercel.app](https://noe-academias.vercel.app/) | Soluciones especializadas para instituciones académicas y centros de estudio. |
+| **Para Instituciones** | [https://noe-instituciones.vercel.app](https://noe-instituciones.vercel.app/) | Herramientas administrativas para organizaciones educativas de gran escala. |
+| **Para Escuelas** | [https://noe-escuelas.vercel.app](https://noe-escuelas.vercel.app/) | Recursos adaptados a centros educativos con controles parentales y pedagógicos. |
 
 > **Nota importante**: Esta documentación en GitHub es **exclusivamente para fines de desarrollo y transparencia técnica**. Para experimentar la plataforma completa con todas sus funcionalidades interactivas, visite los enlaces oficiales arriba mencionados.
 
@@ -352,7 +352,7 @@ Para solicitudes de colaboración, licenciamiento, auditorías o autorizaciones 
   **Email**: [nucleoofimaticoeducativo@gmail.com] *(nucleoofimaticoeducativo@gmail.com)*  
   **Email**: [nucleoofimaticoeducativo@outlook.com] *(nucleoofimaticoeducativo@outlook.com)*  
   **Sitio Web**: [https://noe-ong.vercel.app](https://noe-ong.verce.app/)  
-  **Enlace del Repositorio**: [https://github.com/NucleoOfimaticoEducativo](https://github.com/NucleoOfimaticoEducativo)
+  **Enlace del Repositorio**: [https://github.com/NucleoOfimaticoEducativo](https://github.com/NucleoOfimaticoEducativo/)
 
 > **Nota**: Todas las solicitudes deben ser enviadas por escrito y serán evaluadas individualmente por el fundador.
 
