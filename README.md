@@ -43,7 +43,7 @@ Este proyecto representa un **activo intelectual protegido** y constituye el res
 
 ---
 
-## 📋 OBJETIVOS INSTITUCIONALES DE ALTO IMPACTO
+## OBJETIVOS INSTITUCIONALES DE ALTO IMPACTO
 
 La infraestructura de N.O.E. ha sido diseñada estratégicamente para transformar el potencial técnico de estudiantes y profesionales, consolidando competencias críticas de nivel gerencial en las siguientes áreas:
 
