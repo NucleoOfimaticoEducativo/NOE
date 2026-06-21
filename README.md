@@ -373,7 +373,7 @@ Para iniciar un proceso de colaboración, por favor envía una propuesta detalla
 
 ## PRÓXIMAS ACTUALIZACIONES
 
-- [ ] Desarrollo de versión móvil nativa (iOS/Android)
+- [Completado] Desarrollo de versión móvil nativa (iOS/Android)
 - [ ] Creación de comunidad de desarrolladores autorizados
 
 ---
