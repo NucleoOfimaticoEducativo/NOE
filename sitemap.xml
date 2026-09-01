@@ -1,69 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://noe-ong.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-plataforma.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-carnet.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-cuadernos.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-escuelas.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-instituciones.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-librero.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-privado.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-publico.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-sobre-mi.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-videos.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-academias.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
-  <url>
-    <loc>https://noe-calendario.vercel.app/</loc>
-    <lastmod>2026-06-10</lastmod>
-  </url>
-
+<url>
+<loc>https://nucleoofimaticoeducativo.com/</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/plataforma</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.90</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/carnet</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/cuadernos</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/escuelas</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/instituciones</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/librero</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/privado</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.70</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/publico</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/sobre-mi</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.70</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/videos</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/academias</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://nucleoofimaticoeducativo.com/calendario</loc>
+<lastmod>2026-05-13</lastmod>
+<priority>0.70</priority>
+</url>
 </urlset>
