@@ -181,7 +181,7 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 | Tipo de Acceso | Enlace Oficial | Descripción Corporativa |
 |----------------|----------------|------------------------|
 | **N.O.E.** | [https://nucleoofimaticoeducativo.com/](https://nucleoofimaticoeducativo.com/) | **Centro de Comando Principal.** Integración global de todos los módulos, pilares estratégicos y telemetría del sistema. |
-| **Sobre Mí** | [https://nucleoofimaticoeducativo.com/sobre-mi/](https://nucleoofimaticoeducativo.com/sobre-mi/) | Biografía oficial del fundador, declaración de visión y arquitectura del ecosistema. |
+| **Sobre Mí** | [https://sobre-mi.nucleoofimaticoeducativo.com/](https://sobre-mi.nucleoofimaticoeducativo.com/) | Biografía oficial del fundador, declaración de visión y arquitectura del ecosistema. |
 
 ---
 
@@ -189,12 +189,12 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 
 | Módulo | Enlace Oficial | Funcionalidad Específica |
 |--------|----------------|--------------------------|
-| **Plataforma** | [https://nucleoofimaticoeducativo.com/plataforma/](https://nucleoofimaticoeducativo.com/plataforma/) | Ambiente de aprendizaje virtual integrado con seguimiento de progreso. |
-| **Carnés** | [https://nucleoofimaticoeducativo.com/carnet/](https://nucleoofimaticoeducativo.com/carnet/) | Generación y gestión de identificaciones digitales con códigos QR y validación. |
-| **Calendarios** | [https://nucleoofimaticoeducativo.com/calendario/](https://nucleoofimaticoeducativo.com/calendario/) | Planificación académica, eventos institucionales y recordatorios automatizados. |
-| **Librero** | [https://nucleoofimaticoeducativo.com/librero/](https://nucleoofimaticoeducativo.com/librero/) | Biblioteca virtual de recursos educativos, manuales y documentación técnica. |
-| **Cuadernos** | [https://nucleoofimaticoeducativo.com/cuadernos/](https://nucleoofimaticoeducativo.com/cuadernos/) | Repositorio de apuntes estructurados, guías de estudio y material didáctico. |
-| **Videos** | [https://nucleoofimaticoeducativo.com/videos/](https://nucleoofimaticoeducativo.com/videos/) | Tutoriales multimedia, conferencias y contenido audiovisual educativo. |
+| **Plataforma** | [https://plataforma.nucleoofimaticoeducativo.com/](https://plataforma.nucleoofimaticoeducativo.com/) | Ambiente de aprendizaje virtual integrado con seguimiento de progreso. |
+| **Carnés** | [https://carnet.nucleoofimaticoeducativo.com/](https://carnet.nucleoofimaticoeducativo.com/) | Generación y gestión de identificaciones digitales con códigos QR y validación. |
+| **Calendarios** | [https://calendario.nucleoofimaticoeducativo.com/](https://calendario.nucleoofimaticoeducativo.com/) | Planificación académica, eventos institucionales y recordatorios automatizados. |
+| **Librero** | [https://librero.nucleoofimaticoeducativo.com/](https://librero.nucleoofimaticoeducativo.com/) | Biblioteca virtual de recursos educativos, manuales y documentación técnica. |
+| **Cuadernos** | [https://cuadernos.nucleoofimaticoeducativo.com/](https://cuadernos.nucleoofimaticoeducativo.com/) | Repositorio de apuntes estructurados, guías de estudio y material didáctico. |
+| **Videos** | [https://videos.nucleoofimaticoeducativo.com/](https://videos.nucleoofimaticoeducativo.com/) | Tutoriales multimedia, conferencias y contenido audiovisual educativo. |
 
 ---
 
@@ -202,11 +202,11 @@ La versión en vivo de **N.O.E. (Núcleo Ofimático Educativo)** está disponibl
 
 | Nivel de Acceso | Enlace Oficial | Público Objetivo |
 |-----------------|----------------|------------------|
-| **Registro Público** | [https://nucleoofimaticoeducativo.com/publico/](https://nucleoofimaticoeducativo.com/publico/) | Acceso limitado para visitantes y consulta general de información. |
-| **Registro Privado** | [https://nucleoofimaticoeducativo.com/privado/](https://nucleoofimaticoeducativo.com/privado/) | Área exclusiva para miembros autorizados con credenciales verificadas. |
-| **Para Academias** | [https://nucleoofimaticoeducativo.com/academias/](https://nucleoofimaticoeducativo.com/academias/) | Soluciones especializadas para instituciones académicas y centros de estudio. |
-| **Para Instituciones** | [https://nucleoofimaticoeducativo.com/instituciones/](https://nucleoofimaticoeducativo.com/instituciones/) | Herramientas administrativas para organizaciones educativas de gran escala. |
-| **Para Escuelas** | [https://nucleoofimaticoeducativo.com/escuelas/](https://nucleoofimaticoeducativo.com/escuelas/) | Recursos adaptados a centros educativos con controles parentales y pedagógicos. |
+| **Registro Público** | [https://publico.nucleoofimaticoeducativo.com/](https://publico.nucleoofimaticoeducativo.com/) | Acceso limitado para visitantes y consulta general de información. |
+| **Registro Privado** | [https://privado.nucleoofimaticoeducativo.com/](https://privado.nucleoofimaticoeducativo.com/) | Área exclusiva para miembros autorizados con credenciales verificadas. |
+| **Para Academias** | [https://academias.nucleoofimaticoeducativo.com/](https://academias.nucleoofimaticoeducativo.com/) | Soluciones especializadas para instituciones académicas y centros de estudio. |
+| **Para Instituciones** | [https://instituciones.nucleoofimaticoeducativo.com/](https://instituciones.nucleoofimaticoeducativo.com/) | Herramientas administrativas para organizaciones educativas de gran escala. |
+| **Para Escuelas** | [https://escuelas.nucleoofimaticoeducativo.com/](https://escuelas.nucleoofimaticoeducativo.com/) | Recursos adaptados a centros educativos con controles parentales y pedagógicos. |
 
 > **Nota importante**: Esta documentación en GitHub es **exclusivamente para fines de desarrollo y transparencia técnica**. Para experimentar la plataforma completa con todas sus funcionalidades interactivas, visite los enlaces oficiales arriba mencionados.
 
@@ -380,11 +380,24 @@ Para solicitudes de colaboración, licenciamiento, auditorías o autorizaciones 
 
 **Angel Manuel Guevara Chavarria**
   **Sede**: Palín, Escuintla, Guatemala
-  **Email**: [nucleoofimaticoeducativo@gmail.com] *(nucleoofimaticoeducativo@gmail.com)*
-  **Email**: [nucleoofimaticoeducativo@outlook.com] *(nucleoofimaticoeducativo@outlook.com)*
   **Sitio Web**: [https://nucleoofimaticoeducativo.com/](https://nucleoofimaticoeducativo.com/)
 
-> **Nota**: Todas las solicitudes deben ser enviadas por escrito y serán evaluadas individualmente por el fundador.
+### Canales Oficiales de Contacto
+
+**1. Asuntos Legales, Propiedad Intelectual y Licenciamiento:**
+  **Email**: fundador@nucleoofimaticoeducativo.com
+  > Para autorizaciones escritas, denuncias de uso no autorizado, convenios, auditorías legales y toda gestión relacionada con la gobernanza y propiedad intelectual de N.O.E.
+
+**2. Soporte Técnico y Académico para Estudiantes:**
+  **Email**: tecnico@nucleoofimaticoeducativo.com
+  **Email**: soporte@nucleoofimaticoeducativo.com
+  > Para incidencias técnicas de la plataforma, acceso a módulos, errores de carnés, calendario, librero, cuadernos y videos. Atención exclusiva para estudiantes activos y miembros verificados.
+
+**3. Administración, Bajas y Renovaciones de Suscripción:**
+  **Email**: admin@nucleoofimaticoeducativo.com
+  > Para solicitudes de baja voluntaria, renovación de membresías, facturación, cambios de plan y gestión administrativa de cuentas.
+
+> **Nota**: Todas las solicitudes deben ser enviadas por escrito desde su correo institucional registrado y serán evaluadas individualmente por el fundador y su equipo de administración.
 
 ---
 
@@ -392,12 +405,12 @@ Para solicitudes de colaboración, licenciamiento, auditorías o autorizaciones 
 
 Este proyecto es propiedad exclusiva de su fundador. Sin embargo, se aceptan contribuciones bajo los siguientes términos:
 
-1. Todas las contribuciones deben ser aprobadas por escrito por el fundador.
+1. Todas las contribuciones deben ser aprobadas por escrito por el fundador mediante **fundador@nucleoofimaticoeducativo.com**.
 2. El fundador retiene todos los derechos de propiedad intelectual sobre cualquier contribución.
 3. Los colaboradores deben firmar un acuerdo de transferencia de derechos de autor.
 4. No se garantiza compensación económica por contribuciones.
 
-Para iniciar un proceso de colaboración, por favor envía una propuesta detallada al correo del fundador.
+Para iniciar un proceso de colaboración, por favor envía una propuesta detallada al correo legal del fundador.
 
 ---
 
