@@ -6,7 +6,7 @@
 
 ## DECLARACIÓN DE PROPIEDAD INTELECTUAL Y GOBERNANZA
 
-**N.O.E. (Núcleo Ofimático Educativo)** es una plataforma de alta especialización en **Ofimática Avanzada, Sistemas y Desarrollo**, **creada, desarrollada y fundada exclusivamente** por el Técnico **Ángel Manuel Guevara Chavarría**.
+**N.O.E. (Núcleo Ofimático Educativo)** es una plataforma de alta especialización en **Ofimática Avanzada, Sistemas y Desarrollo**, **creada, desarrollada y fundada exclusivamente** por el Técnico **Ángel Manuel Guevara Chavarria**.
 
 **Todos los derechos de propiedad intelectual, arquitecturas de sistemas, algoritmos, estructuras de datos, interfaces, documentación y ecosistemas digitales asociados a esta plataforma son propiedad exclusiva de su fundador.**
 
