@@ -509,7 +509,7 @@ Para iniciar un proceso de colaboración, por favor envía una propuesta detalla
 
 ## PRÓXIMAS ACTUALIZACIONES
 
-- [ ] Desarrollo de versión móvil nativa (iOS/Android) para N.O.E.
+- [] Desarrollo de versión móvil nativa (iOS/Android) para N.O.E.
 - [ ] Creación de comunidad de desarrolladores autorizados
 - [ ] Expansión de catálogo de Sprint Web Studio: nuevas aplicaciones cotidianas y empresariales
 - [ ] Versiones para Linux y macOS de aplicaciones Sprint (Próximamente según sprintwebstudio.com)
